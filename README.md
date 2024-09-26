@@ -8,3 +8,5 @@ Hector Valenzuela
 Elan Landau
 Alexander Johnson
 
+# Edits
+Changed column select to k, modify index in code, screenshot results of `a` and `b`.
