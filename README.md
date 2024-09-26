@@ -3,7 +3,8 @@ Matlab Project class assignment 9/26/2024
 MEMBERS:
 
 Fernando Delgado Gutierrez
-Michael 
-Hector 
-Elan 
+Michael Carl
+Hector Valenzuela 
+Elan Landau
 Alexander Johnson
+
